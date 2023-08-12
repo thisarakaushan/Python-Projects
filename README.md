@@ -6,18 +6,28 @@ Each project is designed to help you practice specific concepts, improve your co
 
 ## Table of Contents
 
-1. [Currency Converter](#currency-converter)
-2. [Dice Roll Simulator](#dice-roll-simulator)
-3. [Email Sender](#email-sender)
-4. [Temperature Converter](#temperature-converter)
-5. [File Encryption Tool](#file-encryption-tool)
-6. [Random Password Generator](#random-password-generator)
-7. [Rock Paper Scissors Game](#rock-paper-scissors-game)
-8. [Simple Calculator](#simple-calculator)
-9. [Simple Chat Application](#simple-chat-application)
-10. [To-Do List](#to-do-list)
-11. [URL Shortener](#url-shortener)
-12. [Text Analysis Tool](#text-analysis-tool)
+1. [Coin Slip Simulator](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Coin%20Flip%20Simulator.ipynb)
+2. [Currency Converter](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Currency%20Converter.ipynb)
+3. [Dice Roll Simulator](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Dice%20Roll%20Simulator.ipynb)
+4. [Email Sender](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Email%20Sender.ipynb)
+5. [Temperature Converter](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Fahrenheit%20to%20Celsius%20Converter.ipynb)
+6. [File Encryption Tool](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/File%20Encryption%20Tool.ipynb)
+7. [File Organizer](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/File%20Organizer.ipynb)
+8. [Hangman Game](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Hangman%20Game.ipynb)
+9. [Image Downloader](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Image%20Downloader.ipynb)
+10. [Magic 8-Balls](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Magic%208-Ball.ipynb)
+11. [Number Guessing Game](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Number%20Guessing%20Game.ipynb)
+12. [Random Password Generator](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Random%20Password%20Generator.ipynb)
+13. [Rock Paper Scissors Game](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Rock%20Paper%20Scissors.ipynb)
+14. [Simple Calculator](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Simple%20Calculator.ipynb)
+15. [Simple Chat Application](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Simple%20Chat%20Application.ipynb)
+16. [To-Do List](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/To-do%20list%20application.ipynb)
+17. [URL Shortener](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/URL%20Shortener.ipynb)
+18. [Weather Application](https://github.com/thisarakaushan/Python-Projects-Collection/tree/main/Weather%20Application)
+19. [Web Scraper](https://github.com/thisarakaushan/Python-Projects-Collection/tree/main/Web%20Scraper)
+20. [Word Count Tool](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Word%20Count%20Tool.ipynb)
+21. [Word Guessing Game](https://github.com/thisarakaushan/Python-Projects-Collection/tree/main/Word%20Guessing%20Game)
+
 
 ## How to Use
 
