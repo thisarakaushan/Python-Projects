@@ -23,7 +23,7 @@ Each project is designed to help you practice specific concepts, improve your co
 
 1. Clone this repository to your local machine using:
 
-  ```git clone https://github.com/thisarakaushan/Python-Projects-Collection.git```
+    ```git clone https://github.com/thisarakaushan/Python-Projects-Collection.git```
 
 ## Contributions
 
