@@ -28,7 +28,7 @@ Each project is designed to help you practice specific concepts, improve your co
 20. [Word Count Tool](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/Word%20Count%20Tool.ipynb)
 21. [Word Guessing Game](https://github.com/thisarakaushan/Python-Projects-Collection/tree/main/Word%20Guessing%20Game)
 22. [Tic  Tac Toe Game](https://github.com/thisarakaushan/Python-Projects-Collection/tree/main/Tic%20%20Tac%20Toe%20Game)
-23. [QR Code Generator](https://github.com/thisarakaushan/Python-Projects-Collection/blob/main/qrcode_generator.ipynb)
+23. [QR Code Generator](https://github.com/thisarakaushan/Python-Projects-Collection/tree/main/QR%20Code%20Generator)
 
 ## How to Use
 
